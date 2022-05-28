@@ -1,0 +1,11 @@
+Eko: bapak bisa setting seperti berikut
+Non-SSL Settings<br />
+(NOT Recommended)<br />
+Username: namaemail@namadomain.com<br />
+Password: Use the email accountâ€™s password.<br />
+Incoming Server: mail.namadomain.com<br />
+IMAP Port: 143<br />
+POP3 Port: 110<br />
+Outgoing Server: mail.namadomain.com<br />
+SMTP Port: 587<br />
+Authentication is required for IMAP, POP3, and SMTP.
